@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35089" started-at="2018-01-08T10:24:27Z" finished-at="2018-01-08T10:25:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35089" started-at="2018-01-08T10:24:27Z" finished-at="2018-01-08T10:25:02Z">
+      <class name="fine.function">
+        <test-method status="PASS" signature="flipkart()[pri:1, instance:fine.function@13a5fe33]" name="flipkart" duration-ms="8641" started-at="2018-01-08T15:54:27Z" finished-at="2018-01-08T15:54:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+        <test-method status="PASS" signature="login()[pri:2, instance:fine.function@13a5fe33]" name="login" duration-ms="9640" started-at="2018-01-08T15:54:36Z" finished-at="2018-01-08T15:54:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Afterlogin()[pri:3, instance:fine.function@13a5fe33]" name="Afterlogin" duration-ms="9449" started-at="2018-01-08T15:54:45Z" finished-at="2018-01-08T15:54:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afterlogin -->
+        <test-method status="PASS" signature="switchwindow()[pri:4, instance:fine.function@13a5fe33]" name="switchwindow" duration-ms="7311" started-at="2018-01-08T15:54:55Z" finished-at="2018-01-08T15:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchwindow -->
+      </class> <!-- fine.function -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
